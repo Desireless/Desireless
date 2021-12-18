@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan ( @Desireless )
-- 👀 I’m interested in Front-End and Back-End apps, i like to learn how things work
-- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 👀 I’m interested in Front-End and Back-End apps.
+- 🌱 I’m currently learning .NET and MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
