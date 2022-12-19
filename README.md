@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Juan ( @Desireless ).
-- 👀 I’m interested in Front-End and Back-End.
-- 🌱 I’m currently learning React.
-
-
+- 👋 Hi, I’m Juan Pablo.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning to solve problems with React + Typescript.
+- 💞️ Also, i like to read fantasy manhwas, practice inline skating and play videogames 😊.
 
 <!---
 - 📫 How to reach me ...
