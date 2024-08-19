@@ -17,7 +17,7 @@ Desarrollo principalmente con Typescript en el frontend, y Java para implementar
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Cloudflare](https://img.shields.io/badge/-Clouflare-05122A?style=flat&logo=cloudflare)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
 ![Supabase](https://img.shields.io/badge/-supabase-05122A?style=flat&logo=supabase)&nbsp;
 
 
