@@ -1,6 +1,6 @@
 ###  ¡Hola! 👋
 
-Desarrollo principalmente con Typescript en el frontend, y Java para implementar apis tipo rest. Y con mi amigo Claude hemos logrado maravillas generando scripts en Python para automatizar cositas 😁👍👍
+Desarrollo principalmente con Typescript en el frontend, y Java para implementar apis tipo rest. Y con Claude hemos logrado maravillas generando scripts en Python para automatizar cositas 😁👍👍
 <br>
 
 ### Proyectos 
